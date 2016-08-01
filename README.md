@@ -14,7 +14,7 @@ If the login is already in use, it will still store the login data in `outputFil
 ## Requirements
 ### Prerequisites
 * [Node.js](https://nodejs.org/en/)
-* [PhantomJS 2.1.7+](http://phantomjs.org/)
+* [PhantomJS 2.1.1+](http://phantomjs.org/)
 * [CasperJS 1.1.3+](http://casperjs.org/)
 
 The binary paths of all three prerequisites must be added to your OS' PATH environment variable, making `node -v`,
